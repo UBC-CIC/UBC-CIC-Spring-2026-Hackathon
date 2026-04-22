@@ -140,3 +140,22 @@ Enable generative AI applications to execute multistep tasks across company syst
 - [AWS Technical Essentials](https://assorted-market-2d4.notion.site/AWS-Technical-Essentials-612efb1dde3c4ac1a8a68969b7fd8d5b)
 - [Architecting on AWS - Online Course Supplement](https://explore.skillbuilder.aws/learn/course/external/view/elearning/8319/architecting-on-aws-online-course-supplement)
 - [AWS Serverless Land](https://serverlessland.com/) - AWS Serverless examples, patterns, documentation and guidance.
+
+## Examples / Ideas to Spark Your Thinking 💡
+
+Below are a few examples to help you understand the kinds of technologies and problem-solving approaches you can explore. Some are real-world projects, while others are conceptual ideas meant to inspire your creativity.
+
+### Amazon Bedrock Series
+
+- GitHub Link: [RAG-Bedrock-Titan](https://github.com/janakiramm/rag-bedrock-titan)
+- Video: [Implementing RAG with Amazon Bedrock and Amazon Titan - Part 1](https://www.youtube.com/watch?v=RIw_Ivvrp8g)
+
+From the creator: "In this tutorial, we will build a chatbot based on the Retrieval Augmented Context generation technique. Amazon OpenSearch Serverless is used as the vector database, Amazon Titan is used for generating text embeddings and as an LLM, and Amazon Bedrock API is used for invoking the Titan model."
+
+### AI Study Companion for Open Textbooks
+
+A UBC CIC project that enables instructors to generate quizzes, flashcards, and other practice materials from open textbooks, while allowing students to engage with course content through a conversational chat interface. The system uses generative AI to retrieve and synthesize information from open educational resources, providing accurate, context-aware learning support. Check out the project [GitHub repository](https://github.com/UBC-CIC/OER-AI).
+
+### Tenant Support Navigator
+
+A chatbot that helps renters navigate tenancy issues such as rent increases, eviction notices, and maintenance disputes. Built with Amazon Bedrock and a RAG-based knowledge base, it generates responses using verified provincial housing regulations and advocacy resources. A simple web interface allows users to ask questions or upload documents and receive clear, situation-specific guidance.
