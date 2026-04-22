@@ -47,6 +47,8 @@ The registration booth will be set up near the building entrance beside the elev
 
 ### Submission Guidelines
 
+[NOTE TO CARRIE - Review/fill this out]
+
 - Total 5 minutes (3 min presentation, 2 min Q&A)
 - We recommend talking about the potential real world impact of this project.
 - **REQUIRED**: To judge the technical details of your solution, you must include an architecture diagram (try out draw.io, or any other tool).
