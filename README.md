@@ -137,9 +137,6 @@ Enable generative AI applications to execute multistep tasks across company syst
 ### AWS Basics
 
 - [AWS Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/)
-- [AWS Security Essentials](https://assorted-market-2d4.notion.site/AWS-Security-Essentials-97e1020385564db4a59fe41cd0ce5929)
-- [AWS Networking Essentials](https://assorted-market-2d4.notion.site/AWS-Networking-Essentials-cb0e377177eb4bfbbeebc58c8ca180cd)
-- [AWS Technical Essentials](https://assorted-market-2d4.notion.site/AWS-Technical-Essentials-612efb1dde3c4ac1a8a68969b7fd8d5b)
 - [Architecting on AWS - Online Course Supplement](https://explore.skillbuilder.aws/learn/course/external/view/elearning/8319/architecting-on-aws-online-course-supplement)
 - [AWS Serverless Land](https://serverlessland.com/) - AWS Serverless examples, patterns, documentation and guidance.
 
