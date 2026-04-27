@@ -122,7 +122,6 @@ Retrieval-augmented generation (RAG) for large language models (LLMs) aims to im
 
 - [Open Government Canada](https://open.canada.ca/en)
 - [ Environment and Natural Resources Canada](https://www.canada.ca/en/services/environment.html)
-- [U.S. Government's Open Data](https://data.gov/)
 - [Kaggle](https://www.kaggle.com)
 
 ---
