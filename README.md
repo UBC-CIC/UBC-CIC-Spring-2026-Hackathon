@@ -5,7 +5,7 @@
 **About Generative AI and Cloud Computing** <br>
 Generative AI refers to a type of artificial intelligence designed to generate new content, data, or outputs that are not explicitly programmed in advance. It involves models that can create new examples or samples within a given domain, such as images, text, music, or other types of data.
 
-Cloud Computing is the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer. It allows you to focus on developing, rather than having to worry about providing all the hardware. One of the biggest cloud service providers out there is AWS.
+Cloud Computing is the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer. It allows you to focus on developing, rather than having to worry about providing all the hardware. One of the biggest cloud service providers out there is Amazon Web Services (AWS).
 
 **Theme** <br>
 Our challenge invites you to explore generative AI and develop AI‑powered tools that support communities by reducing friction, improving coordination and connection, and making opportunities and information more accessible. Ahead of the hackathon, we’re hosting an AWS Jam session before the hackathon as a hands-on preparation experience. AWS Jam is an interactive, gamified learning event created by Amazon Web Services where participants work in teams to solve real-world cloud challenges across a variety of AWS services.
