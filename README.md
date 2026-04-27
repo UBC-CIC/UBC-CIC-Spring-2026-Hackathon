@@ -24,7 +24,7 @@ Our challenge invites you to explore generative AI and develop AI‑powered tool
 ### Item Checklist
 
 #### Required
-- UBC Card
+- UBC student card
 - Adapters
 - Laptop and charging cables
 
