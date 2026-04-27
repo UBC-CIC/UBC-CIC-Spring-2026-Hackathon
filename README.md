@@ -55,7 +55,7 @@ The registration booth will be set up near the building entrance beside the elev
 ### Criteria
 
 - Creativity and Originality: The innovativeness and uniqueness of the generated solution.
-- Potential Use Cases: The clear identification of potential use cases, end users, and overall impact.
+- Potential Use Cases: The clear identification of potential use cases, end users, and overall impact in the given community.
 - Technical Implementation: The complexity and performance of the AI model and the effectiveness of the cloud services deployed for the solution.
 - User Interaction: The intuitiveness and usability of the user interface in influencing the generated solution.
 - Presentation: The clarity, coherence, and persuasiveness of the final presentation.
