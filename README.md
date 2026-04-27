@@ -62,7 +62,7 @@ For frequently asked questions and tips, please visit [FAQs](FAQs.md)
 
 ## Getting Started 🎧
 
-On **Monday, May 4th**, the AWS Jam Session workshop on AWS services will be posted in the Discord channel.
+On **Monday, May 4th**, the AWS Jam Session workshop on AWS concepts and tools will be posted in the Discord channel.
 
 [Getting Started With AWS Workshop Studio](https://docs.google.com/document/d/1BGXQ_2axbeXwkkXXuv_F0zny07Byh6_FQY6YIvUt2hA/edit?usp=sharing)
 
