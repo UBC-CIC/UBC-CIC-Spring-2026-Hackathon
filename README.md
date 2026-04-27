@@ -47,8 +47,6 @@ The registration booth will be set up near the building entrance beside the elev
 
 ### Submission Guidelines
 
-[NOTE TO CARRIE - Review/fill this out]
-
 - Total 5 minutes (3 min presentation, 2 min Q&A)
 - We recommend talking about the potential real world impact of this project.
 - **REQUIRED**: To judge the technical details of your solution, you must include an architecture diagram (try out draw.io, or any other tool).
@@ -64,7 +62,7 @@ For frequently asked questions and tips, please visit [FAQs](FAQs.md)
 
 ## Getting Started 🎧
 
-On **Thursday, May 7th**, a workshop on Amazon Bedrock will be posted in the Discord channel.
+On **Monday, May 4th**, the AWS Jam Session workshop on AWS services will be posted in the Discord channel.
 
 [Getting Started With AWS Workshop Studio](https://docs.google.com/document/d/1BGXQ_2axbeXwkkXXuv_F0zny07Byh6_FQY6YIvUt2hA/edit?usp=sharing)
 
