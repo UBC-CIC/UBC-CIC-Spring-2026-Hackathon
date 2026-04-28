@@ -68,7 +68,7 @@ For frequently asked questions and tips, please visit [FAQs](FAQs.md)
 
 On **Monday, May 4th**, the AWS Jam Session workshop on AWS concepts and tools will be posted in the Discord channel.
 
-[For frequently asked questions:AWS Jam FAQ](AWSjam.md)
+[For frequently asked questions: AWS Jam FAQ](AWSjam.md)
 
 ## Resources 💻
 
