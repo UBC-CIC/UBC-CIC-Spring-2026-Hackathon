@@ -64,11 +64,11 @@ The registration booth will be set up near the building entrance beside the elev
 
 For frequently asked questions and tips, please visit [FAQs](FAQs.md)
 
-## Getting Started 🎧
+## Getting Started with AWS JAM🎧
 
 On **Monday, May 4th**, the AWS Jam Session workshop on AWS concepts and tools will be posted in the Discord channel.
 
-[Getting Started With AWS Jam Session](https://docs.google.com/document/d/1lLrOUsKd4OmW78clx_zasc7d4FaHhT6g6RtMM0o2Ha4/edit?usp=sharing)
+[Getting Started With AWS Jam Session](AWS Jam FAQ)
 
 ## Resources 💻
 
