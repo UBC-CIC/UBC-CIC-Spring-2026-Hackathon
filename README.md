@@ -34,7 +34,7 @@ Our challenge invites you to explore generative AI and develop AI‑powered tool
 
 ### Venue
 
-West Mall Swing Space Building: 2175 West Mall, Vancouver, BC V6T 1Z4
+West Mall Swing Space Building: 2175 West Mall, Vancouver, BC V6T 1Z4. 
 The registration booth will be set up near the building entrance beside the elevator
 
 ### Rules
