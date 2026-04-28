@@ -60,7 +60,7 @@ The registration booth will be set up near the building entrance beside the elev
 - User Interaction: The intuitiveness and usability of the user interface in influencing the generated solution.
 - Presentation: The clarity, coherence, and persuasiveness of the final presentation.
 
-### FAQs
+### Hackathon FAQs
 
 For frequently asked questions and tips, please visit [FAQs](FAQs.md)
 
