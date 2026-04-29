@@ -14,7 +14,7 @@ Our challenge invites you to explore generative AI and develop AI‑powered tool
 Prior to and throughout the hackathon, please keep the following judging criteria in mind as you develop your project. These criteria should guide your approach from initial ideation through to final implementation and presentation.
 Your project is expected to demonstrate the following:
 - Creativity and Originality: The innovativeness and uniqueness of the generated solution.
-- Potential Use Cases: The clear identification of potential use cases, end users, and overall impact in the given community.
+- Potential Use Cases: The clear identification of potential use cases, end users, and overall impact in the given community that you have identified.
 - Technical Implementation: The complexity and performance of the AI model and the effectiveness of the cloud services deployed for the solution.
 - User Interaction: The intuitiveness and usability of the user interface in influencing the generated solution.
 - Presentation: The clarity, coherence, and persuasiveness of the final presentation.
