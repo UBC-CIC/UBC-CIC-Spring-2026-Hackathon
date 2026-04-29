@@ -89,7 +89,7 @@ On **Monday, May 4th**, the AWS Jam Session workshop on AWS concepts and tools w
 - [AWS Bedrock PDF Chat](https://github.com/aws-samples/serverless-pdf-chat) - Example of PDF Chat using Amazon Bedrock
 
 ### AWS Kiro Fundamentals
-- [Agentic AI development from prototype to production](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17176/introduction-to-generative-ai-art-of-the-possible)
+- [Kiro Official Website](https://kiro.dev/)
 - [Kiro Guides & Tutorials](https://www.kiro.directory/guides/)
 - [Kiro GitHub Repository](https://github.com/kirodotdev/Kiro)
 
