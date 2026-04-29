@@ -24,7 +24,7 @@ Ahead of the hackathon, we’re hosting an AWS Jam session as a hands-on prepara
 
 ## Getting Started with AWS JAM🎧
 
-Virtually on **Monday, May 4th**, the AWS Jam Session workshop on AWS concepts and tools will be posted in the Discord channel.
+Virtually on **Monday, May 4th, 11:00AM - 11:30AM** the AWS Jam Session on AWS concepts and tools will be posted in the Discord channel.
 
 [For frequently asked questions: AWS Jam FAQ](AWSjam.md)
 
