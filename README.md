@@ -10,6 +10,9 @@ Cloud Computing is the practice of using a network of remote servers hosted on t
 **Theme** <br>
 Our challenge invites you to explore generative AI and develop AI‑powered tools that support communities by reducing friction, improving coordination and connection, and making opportunities and information more accessible. Ahead of the hackathon, we’re hosting an AWS Jam session as a hands-on preparation experience. AWS Jam is an interactive, gamified learning event created by Amazon Web Services where participants work in teams to solve real-world cloud challenges across a variety of AWS services.
 
+**Pre-Hackathon Workshop** <br
+Ahead of the hackathon, virtually on Monday, May 4th from 11am to 3pm, we’re hosting an AWS Jam session as a hands-on preparation experience. AWS Jam is an interactive, gamified learning event created by Amazon Web Services where participants work to solve real-world cloud challenges across a variety of AWS services. We highly recommend that you participate in the Jam session. There is no cost to participate.                            
+
 ## Event Overview 📆
 ### General Schedule
 
