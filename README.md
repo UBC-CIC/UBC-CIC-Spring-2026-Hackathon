@@ -8,7 +8,7 @@ Generative AI refers to a type of artificial intelligence designed to generate n
 Cloud Computing is the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer. It allows you to focus on developing, rather than having to worry about providing all the hardware. One of the biggest cloud service providers out there is Amazon Web Services (AWS).
 
 **Theme** <br>
-Our challenge invites you to explore generative AI and develop AI‑powered tools that support communities by reducing friction, improving coordination and connection, and making opportunities and information more accessible. 
+Our challenge invites you to explore generative AI and develop AI‑powered tools that support communities by reducing friction, improving coordination and connection, and making opportunities and information more accessible. This theme invites teams to identify a real problem that students observe in a specific community they belong to or are connected to (e.g., volunteer, neighbourhood, club, etc.), one that their given community is personally impacted by and motivated to address. Teams should clearly define the community, the problem being experienced, and who is affected.
 
 **Criteria** <br>
 Prior to and throughout the hackathon, please keep the following judging criteria in mind as you develop your project. These criteria should guide your approach from initial ideation through to final implementation and presentation.
