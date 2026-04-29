@@ -10,6 +10,14 @@ Cloud Computing is the practice of using a network of remote servers hosted on t
 **Theme** <br>
 Our challenge invites you to explore generative AI and develop AI‑powered tools that support communities by reducing friction, improving coordination and connection, and making opportunities and information more accessible. Ahead of the hackathon, we’re hosting an AWS Jam session as a hands-on preparation experience. AWS Jam is an interactive, gamified learning event created by Amazon Web Services where participants work in teams to solve real-world cloud challenges across a variety of AWS services.
 
+**Criteria** <br>
+
+- Creativity and Originality: The innovativeness and uniqueness of the generated solution.
+- Potential Use Cases: The clear identification of potential use cases, end users, and overall impact in the given community.
+- Technical Implementation: The complexity and performance of the AI model and the effectiveness of the cloud services deployed for the solution.
+- User Interaction: The intuitiveness and usability of the user interface in influencing the generated solution.
+- Presentation: The clarity, coherence, and persuasiveness of the final presentation.
+
 **Pre-Hackathon Workshop** <br>
 Ahead of the hackathon, virtually on Monday, May 4th from 11am to 3pm, we’re hosting an AWS Jam session as a hands-on preparation experience. AWS Jam is an interactive, gamified learning event created by Amazon Web Services where participants work to solve real-world cloud challenges across a variety of AWS services. We highly recommend that you participate in the Jam session. There is no cost to participate.                            
 
@@ -54,14 +62,6 @@ The registration booth will be set up near the building entrance beside the elev
 - We recommend talking about the potential real world impact of this project.
 - **REQUIRED**: To judge the technical details of your solution, you must include an architecture diagram (try out draw.io, or any other tool).
 - **DEADLINE**: There is a hard deadline to submit the link to your public GitHub repository in your Discord team channel by 4:00PM. Late submissions will lead to disqualification.
-
-### Criteria
-
-- Creativity and Originality: The innovativeness and uniqueness of the generated solution.
-- Potential Use Cases: The clear identification of potential use cases, end users, and overall impact in the given community.
-- Technical Implementation: The complexity and performance of the AI model and the effectiveness of the cloud services deployed for the solution.
-- User Interaction: The intuitiveness and usability of the user interface in influencing the generated solution.
-- Presentation: The clarity, coherence, and persuasiveness of the final presentation.
 
 ### Hackathon FAQs
 
