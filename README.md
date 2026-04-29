@@ -88,6 +88,9 @@ On **Monday, May 4th**, the AWS Jam Session workshop on AWS concepts and tools w
 - [AWS GenAI Quick Starts](https://github.com/aws-samples/genai-quickstart-pocs/) - AWS's Quick Starts for GenAI Repository
 - [AWS Bedrock PDF Chat](https://github.com/aws-samples/serverless-pdf-chat) - Example of PDF Chat using Amazon Bedrock
 
+### AWS Kiro Fundamentals- 
+[Introduction to Generative AI - Art of the Possible](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17176/introduction-to-generative-ai-art-of-the-possible)
+
 ---
 
 ### Data (extending the LLM)
