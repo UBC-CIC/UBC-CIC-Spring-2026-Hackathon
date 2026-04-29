@@ -19,7 +19,7 @@ Your project is expected to demonstrate the following:
 - User Interaction: The intuitiveness and usability of the user interface in influencing the generated solution.
 - Presentation: The clarity, coherence, and persuasiveness of the final presentation.
 
-**Pre-Hackathon Workshop** <br>
+**Pre-Hackathon Jam Session** <br>
 Ahead of the hackathon, we’re hosting an AWS Jam session as a hands-on preparation experience. AWS Jam is an interactive, gamified learning event created by Amazon Web Services where participants work to solve real-world cloud challenges across a variety of AWS services. We highly recommend that you participate in the Jam session. There is no cost to participate.      
 
 ## Getting Started with AWS JAM🎧
