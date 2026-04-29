@@ -20,7 +20,14 @@ Your project is expected to demonstrate the following:
 - Presentation: The clarity, coherence, and persuasiveness of the final presentation.
 
 **Pre-Hackathon Workshop** <br>
-Ahead of the hackathon, virtually on Monday, May 4th from 11am to 3pm, we’re hosting an AWS Jam session as a hands-on preparation experience. AWS Jam is an interactive, gamified learning event created by Amazon Web Services where participants work to solve real-world cloud challenges across a variety of AWS services. We highly recommend that you participate in the Jam session. There is no cost to participate.                            
+Ahead of the hackathon, we’re hosting an AWS Jam session as a hands-on preparation experience. AWS Jam is an interactive, gamified learning event created by Amazon Web Services where participants work to solve real-world cloud challenges across a variety of AWS services. We highly recommend that you participate in the Jam session. There is no cost to participate.      
+
+## Getting Started with AWS JAM🎧
+
+Virtually on **Monday, May 4th**, the AWS Jam Session workshop on AWS concepts and tools will be posted in the Discord channel.
+
+[For frequently asked questions: AWS Jam FAQ](AWSjam.md)
+
 
 ## Event Overview 📆
 ### General Schedule
