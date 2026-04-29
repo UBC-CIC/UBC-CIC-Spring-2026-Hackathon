@@ -30,7 +30,7 @@ Virtually on **Monday, May 4th**, the AWS Jam Session workshop on AWS concepts a
 
 
 ## Event Overview 📆
-### General Schedule
+### General Schedule - Thursday, May 7th, 2026
 
 * 9:00AM: Check in and refreshments
 * 9:15AM: Introductions and icebreakers
