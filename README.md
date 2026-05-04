@@ -66,13 +66,13 @@ The registration booth will be set up near the building entrance beside the elev
 
 ### Submission Guidelines
 
-- Total 5 minutes (3 min presentation, 2 min Q&A)
+- Group presentation: Total 5 minutes (3 min presentation, 2 min Q&A)
 - We recommend talking about the potential real world impact of this project.
-- **DEADLINE**: There is a hard deadline and requirement to submit the following in your Discord team channel by 4:00PM:
--  1. The link to your public GitHub repository
-- 2. To judge the technical details of your solution, you must include an architecture diagram (try out draw.io, or any other tool)
-- 3. A list of AWS services used for your project
-- 4. Two to five sentences describing your project and the identification of potential use cases, end users, and overall impact in the given community that you have identified
+- **DEADLINE**: There is a hard **deadline and requirement** to submit the following in your Discord team channel by **4:00PM**:
+ 1. The link to your public GitHub repository
+ 2. To judge the technical details of your solution, you must include an architecture diagram (try out draw.io, or any other tool)
+ 3. A list of AWS services used for your project
+ 4. Two to five sentences describing your project and the identification of potential use cases, end users, and overall impact in the given community that you have identified
 -  Late submissions will lead to disqualification
 
 ### Hackathon FAQs
