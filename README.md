@@ -66,7 +66,7 @@ The registration booth will be set up near the building entrance beside the elev
 
 ### Submission Guidelines
 
-- Group presentation: Total 5 minutes (3 min presentation, 2 min Q&A)
+- Team presentation: Total 5 minutes (3 min presentation, 2 min Q&A)
 - We recommend talking about the potential real world impact of this project
 - **DEADLINE**: There is a hard **deadline and requirement** to submit the following in your Discord team channel by **4:00PM**:
  1. The link to your public GitHub repository
