@@ -86,9 +86,7 @@ For frequently asked questions and tips, please visit [FAQs](FAQs.md)
 - [Introduction to Generative AI - Art of the Possible](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17176/introduction-to-generative-ai-art-of-the-possible)
 - [Planning a Generative AI Project](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17256/planning-a-generative-ai-project)
 - - [Foundations of Prompt Engineering](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering)
-- [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 - [Introduction to LangChain](https://python.langchain.com/docs/get_started/introduction) - LangChain is a framework for developing applications powered by language models
-- [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) - (Course) Enroll for free. Excellent intro course. Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works.
 - [Prompt Engineering Best Practices](https://www.youtube.com/watch?v=jlqgGkh1wzY) - Prompt engineering best practices for LLMs on Amazon Bedrock.
 - - [General Prompt Engineering using Party Rock](https://partyrock.aws/u/js2222/zEj353AmT/Prompt-Engineering-Guide-Introduction) - Learn General Prompt Engineering using Party Rock (free to use).
 - [Anthropic Claude on Party Rock](https://partyrock.aws/u/schuylr/proiDgYx9/Claude-Prompt-Engineering-Interactive-Tutorial-Chapter-1) - Learn Anthropic Claude Interactive Prompt Engineering tutorial on Party Rock (free to use).
